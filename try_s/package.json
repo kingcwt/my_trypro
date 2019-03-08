@@ -1,0 +1,26 @@
+{
+  "name": "try",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "hapi": "^18.1.0"
+  },
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "hapi-auth-bearer-token": "^6.1.1",
+    "hapi-auto-route": "^2.0.6",
+    "hapi-swagger": "^9.3.1",
+    "i": "^0.3.6",
+    "inert": "^5.1.2",
+    "joi": "^14.3.1",
+    "mongoose": "^5.4.15",
+    "vision": "^5.4.4"
+  }
+}
